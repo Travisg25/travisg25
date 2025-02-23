@@ -1,5 +1,5 @@
 <h1>Hi, I'm Travis! 👋 <br><br>
-Business Builder, Tech Enthusiast, Cybersecurity Aspirant</h1>
+Business Builder, Tech Enthusiast</h1>
 
 ### 🖥️ Learning & Achievements:
 - <b> Bootcamp Graduate: </b> <br> 
@@ -44,7 +44,7 @@ Created training materials for restaurant staff, ensuring smooth expansion.
 Focus on information security, cloud security, and AI as vital future technologie.
 - <b> Personal Projects:</b> <br> 
 Building a home cloud and camera security system, reverse engineering skills.
-
+<!--
 ### 📺 YouTube & Online Presence:
 - <b> Educational Content:</b>  <br>
 Share my experience in changing careers slightly later in life.Our struggles are our stories that help others.
