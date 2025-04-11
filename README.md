@@ -1,5 +1,5 @@
 <h1>Hi, I'm Travis! 👋 <br><br>
-Business Builder, Tech Enthusiast</h1>
+<!-- Business Builder, Tech Enthusiast</h1> -->
 
 ### 🖥️ Learning & Achievements:
 - <b> Bootcamp Graduate: </b> <br> 
