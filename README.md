@@ -20,7 +20,7 @@ Python, JavaScript, Linux, bash, GitHub, home computer building.
 10 years, expanded company to 4 new cities, managed 30+ employees.
 - <b> Real Estate Success:</b> <br> 
 5 years, including 3 years as a successful realtor and marketing manager.
-
+<!--
 ### 🌟 Why me?
 - <b>Unique Background:</b> <br> 
 A blend of tech skills, leadership, and hands-on experience.
