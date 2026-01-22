@@ -1,7 +1,7 @@
 <h1>Hi, I'm Travis! 👋 <br><br>
 <!-- Business Builder, Tech Enthusiast</h1> -->
 
-### 🖥️ Learning & Achievements:
+<!-- ### 🖥️ Learning & Achievements:
 - <b> Bootcamp Graduate: </b> <br> 
 Studied JavaScript, React, Node.js, Ruby, UI/UX design at Bloc.
 - <b> Professional Certifications:</b> <br>
